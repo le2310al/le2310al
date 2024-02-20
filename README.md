@@ -16,19 +16,21 @@ const lea = {
    hobbies: bouldering,
 }
 ```
-<div align="center">
 
+<br>
+
+<div align="center">
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=le2310al&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
 </a>
-
-<br>
+</p>
 
 <img src="https://raw.githubusercontent.com/le2310al/le2310al/main/bongo-cat.gif" height="60" />
-
+   
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/le2310al)
 
 </div>
