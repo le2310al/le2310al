@@ -5,16 +5,16 @@
 ```javascript
 const lea = {
    bsc: Biomedicine,
-   msc: Computer Science
-  os:  Arch
+   msc: Computer Science,
+   os:  Arch,
 }
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=le2310al&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=le2310al&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
 </a>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/le2310al/)
