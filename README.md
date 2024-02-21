@@ -21,12 +21,11 @@ const lea = {
 
 <div align="center">
 <p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://le2310al-github-readme-stats.vercel.app/api?username=le2310al&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1&role=owner,collaborator" />
+  <img height=150 align="center" src="https://le2310al-readme-stats.vercel.app/api?username=le2310al&show_icons=true&role=owner,collaborator&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://le2310al-github-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1&role=owner,collaborator" />
+  <img height=150 align="center" src="https://le2310al-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&role=owner,collaborator&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
 </a>
 </p>
 
