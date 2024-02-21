@@ -23,10 +23,10 @@ const lea = {
 <p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://le2310al-github-readme-stats.vercel.app/api?username=le2310al&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
+  <img height=150 align="center" src="https://le2310al-github-readme-stats.vercel.app/api?username=le2310al&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1&role=owner,collaborator" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://le2310al-github-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1" />
+  <img height=150 align="center" src="https://le2310al-github-readme-stats.vercel.app/api/top-langs/?username=le2310al&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ef9f76&title_color=babbf1&role=owner,collaborator" />
 </a>
 </p>
 
